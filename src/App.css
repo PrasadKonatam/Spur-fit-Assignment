@@ -1,0 +1,7 @@
+.card-btn {
+  display: none;
+}
+
+.card:hover .card-btn {
+  display: block;
+}
